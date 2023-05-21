@@ -27,7 +27,6 @@ pip install langchain streamlit
 ```bash
 streamlit run testapp.py
 ```
-- You may alternatively visit http://localhost:8501 to access the application.
 
 ## Usage
 
